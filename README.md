@@ -36,7 +36,7 @@ Where:
 Table of values for Nc, Nv and Band-gap energy (Eg) which is nearly constant with temperature.at T=300K
 ![table](table.png)
 
-* The values are given for T=300K and will be scaled up/down during the calculations according to the input temperature.
+* The values are given for T=300K and will be scaled up/down during the calculations according to the input temperature.<br>
 
 source : https://www.calctown.com/calculators/intrinsic-carrier-concentration
 
@@ -44,12 +44,12 @@ source : https://www.calctown.com/calculators/intrinsic-carrier-concentration
 
 ##  Example
 
-Enter temperature (K): 300
-Enter bandgap energy (eV): 1.12
-Enter effective density of states in conduction band (per cm³): 2.8e19
-Enter effective density of states in valence band (per cm³): 1.04e19
+Enter temperature (K): 300 <br>
+Enter bandgap energy (eV): 1.12 <br>
+Enter effective density of states in conduction band (per cm³): 2.8e19 <br>
+Enter effective density of states in valence band (per cm³): 1.04e19 <br>
 
-Intrinsic Carrier Concentration (ni) = 1.45e10 cm⁻³
+Intrinsic Carrier Concentration (ni) = 1.45e10 cm⁻³<br>
 
 ##  How to Use
 
