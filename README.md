@@ -37,6 +37,7 @@ Table of values for Nc, Nv and Band-gap energy (Eg) which is nearly constant wit
 ![table](table.png)
 
 * The values are given for T=300K and will be scaled up/down during the calculations according to the input temperature.
+source : https://www.calctown.com/calculators/intrinsic-carrier-concentration
 
 ---
 
