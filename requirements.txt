@@ -1,0 +1,4 @@
+# requirements.txt
+# No external libraries required for the current version
+# Just make sure you're using Python 3.8 or higher
+
