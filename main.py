@@ -9,7 +9,7 @@ def intrinsic_carrier_concentration(Nc, Nv, Eg, T):
     return ni
 
 def main():
-    print("=== Semiconductor Property Calculator ===")
+    print("=== Semiconductor Property Calculator by Zeyad ===")
 
     T = float(input("Enter temperature (K): "))
     Eg = float(input("Enter bandgap energy (eV): "))
